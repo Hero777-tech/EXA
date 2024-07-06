@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Which HTML tag is used to define an unordered list?",
+    "options": ["< ol > ", "< ul >", "< li >", "< list >"],
+    "correctOption": 1
+  },
+  {
+    "text": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "High Tech Multi Language", "Hyper Transfer Markup Language", "Home Tool Markup Language"],
+    "correctOption": 0
+  },
+  {
+    "text": "Which HTML attribute is used to define inline styles?",
+    "options": ["class", "styles", "style", "font"],
+    "correctOption": 2
+  },
+  {
+    "text": "What is the correct HTML element for inserting a line break?",
+    "options": ["< lb >", "< break >", "< br >", "< newline >"],
+    "correctOption": 2
+  },
+  {
+    "text": "Which HTML element is used to specify a header for a document or section?",
+    "options": ["< head >", "< header >", "< top >", "< h1 >"],
+    "correctOption": 1
+  },
+  {
+    "text": "Which CSS property is used to change the text color of an element?",
+    "options": ["text-color", "color", "font-color", "text-style"],
+    "correctOption": 1
+  },
+  {
+    "text": "What does CSS stand for?",
+    "options": ["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+    "correctOption": 1
+  },
+  {
+    "text": "Which CSS property is used to control the spacing between elements?",
+    "options": ["spacing", "margin", "padding", "border"],
+    "correctOption": 1
+  },
+  {
+    "text": "How do you select an element with id 'demo' in CSS?",
+    "options": [".demo", "#demo", "*demo", "demo"],
+    "correctOption": 1
+  },
+  {
+    "text": "Which CSS property is used to make a text bold?",
+    "options": ["font-weight", "text-style", "font-style", "text-weight"],
+    "correctOption": 0
+  },
+  {
+    "text": "What is the correct way to declare a JavaScript variable?",
+    "options": ["variable carName;", "v carName;", "var carName;", "let carName;"],
+    "correctOption": 2
+  },
+  {
+    "text": "Which operator is used to assign a value to a variable in JavaScript?",
+    "options": ["*", "-", "x", "="],
+    "correctOption": 3
+  },
+  {
+    "text": "How do you create a function in JavaScript?",
+    "options": ["function = myFunction()", "function:myFunction()", "function myFunction()", "myFunction() = function"],
+    "correctOption": 2
+  },
+  {
+    "text": "How do you call a function named 'myFunction' in JavaScript?",
+    "options": ["call myFunction()", "myFunction()", "call function myFunction()", "Call.myFunction()"],
+    "correctOption": 1
+  },
+  {
+    "text": "What is the correct way to write a JavaScript array?",
+    "options": ["var colors = 'red', 'green', 'blue'", "var colors = (1:'red', 2:'green', 3:'blue')", "var colors = ['red', 'green', 'blue']", "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')"],
+    "correctOption": 2
+  },
+  {
+    "text": "What does the 'cd' command do in a Unix-like operating system?",
+    "options": ["Copy Directory", "Change Directory", "Create Directory", "Close Directory"],
+    "correctOption": 1
+  },
+  {
+    "text": "Which command is used to list files and directories in Unix?",
+    "options": ["list", "ls", "dir", "show"],
+    "correctOption": 1
+  },
+  {
+    "text": "What does the 'grep' command do?",
+    "options": ["Generate Regular Expressions", "Global Regular Expression Print", "Get Regular Expression Pattern", "Global Repeat"],
+    "correctOption": 1
+  },
+  {
+    "text": "Which symbol is used for piping in command-line operations?",
+    "options": [">", "<", "|", "&"],
+    "correctOption": 2
+  },
+  {
+    "text": "What does the 'chmod' command do?",
+    "options": ["Change Module", "Check Mode", "Change Mode", "Check Module"],
+    "correctOption": 2
+  }
+]
